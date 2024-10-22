@@ -51,9 +51,15 @@
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="Laravel" />
+      <br>WordPress
+    </td>
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=codeigniter" width="45" height="45" alt="Laravel" />
+      <br>Codeignter
     </td>
   </tr>
   <tr>
