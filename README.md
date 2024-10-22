@@ -58,8 +58,8 @@
     </td>
     </td>
         <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=codeigniter" width="45" height="45" alt="Laravel" />
-      <br>Codeignter
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="Laravel" />
+      <br>HTML
     </td>
   </tr>
   <tr>
