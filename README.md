@@ -1,16 +1,16 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=topdeveloper917&&style=flat-square)  
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Web, Mobile, Blockchain | Full Stack Developer
+  Senior Full-Stack Developer || React, Angular, Next, Vue, Node, PHP, Laravel, WordPress 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topdeveloper917&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topdeveloper917&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&disable_animations=true&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=topdeveloper917&theme=dracula&column=9&row=2&margin-w=15&margin-h=0&no-bg=false&no-frame=true&order=4&disable_animations=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=topdeveloper917&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JasperSpence&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasperSpence&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&disable_animations=true&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JasperSpence&theme=dracula&column=9&row=2&margin-w=15&margin-h=0&no-bg=false&no-frame=true&order=4&disable_animations=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasperSpence&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
 </div>
 
 <table align="center">
@@ -38,23 +38,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
-    </td>
-        <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
